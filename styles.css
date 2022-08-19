@@ -1,0 +1,18 @@
+body{
+  background-color: cyan;
+  font-style: italic;
+}
+
+hr{
+  border-top: dotted red;
+  width: 20%
+}
+
+td {
+  vertical-align: middle;
+  text-align: left;
+}
+
+.Contact {
+  text-align: center;
+}
